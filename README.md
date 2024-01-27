@@ -24,3 +24,12 @@ The examples in this repository illustrate how to apply various guardrails to LL
 
 #### List of Examples
 - **Example 1:** Basic Usage
+
+### Running the Examples in interactive mode with NeMo Server
+To run the examples in interactive mode, you can use the following command:
+
+```bash
+nemoguardrails server --config ex1/config
+```
+
+and go to http://localhost:8000/ to interact with the model.
