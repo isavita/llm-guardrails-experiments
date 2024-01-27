@@ -1,0 +1,10 @@
+define user express insult
+    "You are stupid"
+    "You are useless"
+
+define flow
+    user express insult
+    bot express calmly willingness to help
+
+define bot express calmly willingness to help
+    "I am sorry to hear that. I am here to help you. How can I help you?" 
